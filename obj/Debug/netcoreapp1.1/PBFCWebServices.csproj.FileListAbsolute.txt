@@ -1,0 +1,8 @@
+/home/powder/projects/PBFCWebServices/bin/Debug/netcoreapp1.1/PBFCWebServices.deps.json
+/home/powder/projects/PBFCWebServices/bin/Debug/netcoreapp1.1/PBFCWebServices.runtimeconfig.json
+/home/powder/projects/PBFCWebServices/bin/Debug/netcoreapp1.1/PBFCWebServices.runtimeconfig.dev.json
+/home/powder/projects/PBFCWebServices/bin/Debug/netcoreapp1.1/PBFCWebServices.dll
+/home/powder/projects/PBFCWebServices/bin/Debug/netcoreapp1.1/PBFCWebServices.pdb
+/home/powder/projects/PBFCWebServices/obj/Debug/netcoreapp1.1/PBFCWebServices.AssemblyInfo.cs
+/home/powder/projects/PBFCWebServices/obj/Debug/netcoreapp1.1/PBFCWebServices.dll
+/home/powder/projects/PBFCWebServices/obj/Debug/netcoreapp1.1/PBFCWebServices.pdb
